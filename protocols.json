@@ -1,5 +1,8 @@
 {
   "graphql": {
     "createCommand": "mb-graphql"
+  },
+  "grpc": {
+    "createCommand": "node grpc/src/index.js"
   }
 }
